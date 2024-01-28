@@ -5,5 +5,5 @@ To download this repo follow this step:
 2. Navigate to a folder in your computer where you want to store this project
 3. Open a terminal at the directory where you want to download and run
 >```
->git clone https://github.com/BCI-CLUB-USF/EMOTIV_Project_23-24.git
+>git clone https://github.com/BCI-CLUB-USF/https://github.com/jegert0/Unity-BCI.git
 >```
