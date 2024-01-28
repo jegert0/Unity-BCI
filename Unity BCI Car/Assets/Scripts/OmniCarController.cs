@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class OmniCarController : MonoBehaviour
 {
-    public float speed = 30;
-    public Vector3 _rotationSpeed;
+    public float speed = 20;
+    public Vector3 _rotationSpeed = new Vector3 (0, 50, 0);
 
     // Update is called once per frame
     void FixedUpdate()
