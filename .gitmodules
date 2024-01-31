@@ -1,0 +1,3 @@
+[submodule "Unity BCI Car/Assets/Plugins/Emotiv-Unity-Plugin"]
+	path = Unity BCI Car/Assets/Plugins/Emotiv-Unity-Plugin
+	url = https://github.com/Emotiv/unity-plugin.git
